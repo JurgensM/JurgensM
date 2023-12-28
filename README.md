@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JurgensM
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 👀 I’m a Programmer
+- 🌱 I’m currently learning Next.js
 
 
 <!---
